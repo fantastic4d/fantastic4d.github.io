@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://fantastic4d.github.io/sitemap.xml
+Sitemap: https://fantastic4d.github.io/sitemap.html

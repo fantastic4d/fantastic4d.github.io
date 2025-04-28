@@ -17,16 +17,16 @@ avatar: https://fantastic4dgembira.com/favicon.png
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  dribbble:
-  email:
-  facebook:
-  flickr:
-  github: f4duser/f4duser.github.io
-  instagram:
-  linkedin:
-  pinterest:
+  dribbble: fantastic4dgembira.com
+  email: fantastic4dgembira.com
+  facebook: fantastic4dgembira.com
+  flickr: fantastic4dgembira.com
+  github: fantastic4d/fantastic4d.github.io
+  instagram: fantastic4dgembira.com
+  linkedin: fantastic4dgembira.com
+  pinterest: fantastic4dgembira.com
   rss: # just type anything here for a working RSS icon
-  twitter: f4d
+  twitter: fantastic4dgembira.com
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
@@ -37,11 +37,11 @@ footer-links:
 disqus:
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics: <meta name="google-site-verification" content="cJjT-Brsjj_KoofB3TMLqFAqqCgczg-zLjN8w5wh6-k" />
+google_analytics: 
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: https://f4duser.github.io
+url: https://fantastic4d.github.io/
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
